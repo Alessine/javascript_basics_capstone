@@ -55,3 +55,9 @@ input, textarea, #destination_details_form button {
     padding: 10px;
     box-sizing: border-box;
 }
+
+.card {
+    padding: 20px;
+    background-color: #efefef;
+    margin-bottom: 20px;
+}
